@@ -1,0 +1,7 @@
+F:\cdac folder\dotnet viktrm sir\Assignment4\Assignment3Q2\bin\Debug\Assignment3Q2.exe.config
+F:\cdac folder\dotnet viktrm sir\Assignment4\Assignment3Q2\bin\Debug\Assignment3Q2.exe
+F:\cdac folder\dotnet viktrm sir\Assignment4\Assignment3Q2\bin\Debug\Assignment3Q2.pdb
+F:\cdac folder\dotnet viktrm sir\Assignment4\Assignment3Q2\obj\Debug\Assignment3Q2.csprojAssemblyReference.cache
+F:\cdac folder\dotnet viktrm sir\Assignment4\Assignment3Q2\obj\Debug\Assignment3Q2.csproj.CoreCompileInputs.cache
+F:\cdac folder\dotnet viktrm sir\Assignment4\Assignment3Q2\obj\Debug\Assignment3Q2.exe
+F:\cdac folder\dotnet viktrm sir\Assignment4\Assignment3Q2\obj\Debug\Assignment3Q2.pdb
